@@ -1,0 +1,112 @@
+[INFO ] 2021-04-07 11:43:33.039 [main] InputTakenEvenSum - Sum Of Even Numbers between 1 And 100 is: 2550
+
+[INFO ] 2021-04-07 11:43:39.987 [main] InputTakenOddSum - Sum Of Odd Numbers between 1 And 100 is: 2500
+
+[INFO ] 2021-04-07 11:43:50.043 [main] InputTakenSeriesSum - Sum Of Series Numbers between 1 And 10 Where Value Of Interval Is 2 : 25
+
+[INFO ] 2021-04-07 11:44:03.042 [main] InputTakenEvenSum - Sum Of Even Numbers between 1 And 50 is: 650
+
+[INFO ] 2021-04-07 12:11:05.144 [main] InputTakenEvenSum - Sum Of  Numbers is: 4
+
+[INFO ] 2021-04-07 12:28:44.176 [main] InputTakenEvenSum - Sum Of Even Numbers between 1 And 100 is: 2550
+
+[INFO ] 2021-04-07 12:36:51.483 [main] InputTakenEvenSum - Sum Of  Numbers is: 35
+
+[INFO ] 2021-04-07 12:37:05.200 [main] InputTakenEvenSum - Sum Of Even Numbers between 2 And 100 is: 2550
+
+[INFO ] 2021-04-07 12:37:44.781 [main] InputTakenEvenSum - Sum Of  Numbers is: 22
+
+[INFO ] 2021-04-07 12:38:00.976 [main] InputTakenEvenSum - Sum Of Even Numbers between 1 And 100 is: 2550
+
+[INFO ] 2021-04-07 12:56:43.890 [main] InputTakenEvenSum - Sum Of Even Numbers between 1 And 100 is: 2550
+
+[INFO ] 2021-04-07 12:57:46.098 [main] InputTakenEvenSum - Sum Of Even Numbers between 1 And 100 is: 2550
+
+[INFO ] 2021-04-07 13:00:01.608 [main] InputTakenEvenSum - Sum Of  Numbers is: 7
+
+[INFO ] 2021-04-07 13:21:30.469 [main] InputTakenSubtract - Subtraction value  between 5 And 2 is: 3
+
+[INFO ] 2021-04-07 13:44:18.226 [main] InputTakenDivision - Division value between 8 And 2 is: 4
+
+[INFO ] 2021-04-07 13:44:33.862 [main] InputTakenMultiplication - Multiplication value between 5 And 2 is: 10
+
+[INFO ] 2021-04-07 13:45:33.477 [main] InputTakenEvenSum - Sum Of  Numbers is: 10
+
+[INFO ] 2021-04-07 14:01:40.793 [main] InputTakenMultiplication - Multiplication value is: 0
+
+[INFO ] 2021-04-07 14:04:15.304 [main] InputTakenMultiplication - Multiplication value is: 0
+
+[INFO ] 2021-04-07 14:06:19.302 [main] InputTakenMultiplication - Multiplication value is: 0
+
+[INFO ] 2021-04-07 14:12:42.692 [main] InputTakenMultiplication - Multiplication value is: 10
+
+[INFO ] 2021-04-07 14:13:22.063 [main] InputTakenMultiplication - Multiplication value is: 6
+
+[INFO ] 2021-04-07 14:15:45.314 [main] InputTakenMultiplication - Multiplication value is: 18
+
+[INFO ] 2021-04-07 16:41:57.144 [main] InputTakenEvenSum - Sum Of Even Numbers between 1 And 100 is: 2550
+
+[INFO ] 2021-04-07 16:42:08.724 [main] InputTakenOddSum - Sum Of Odd Numbers between 1 And 100 is: 2500
+
+[INFO ] 2021-04-07 16:42:28.260 [main] InputTakenSeriesSum - Sum Of Series Numbers between 1 And 5 Where Value Of Interval Is 2 : 9
+
+[INFO ] 2021-04-07 16:43:00.027 [main] InputTakenEvenSum - Sum Of  Numbers is: 7
+
+[INFO ] 2021-04-07 16:43:19.884 [main] InputTakenSubtract - Subtraction value  between 8 And 3 is: 5
+
+[INFO ] 2021-04-07 16:43:39.211 [main] InputTakenDivision - Division value between 8 And 5 is: 1
+
+[INFO ] 2021-04-07 16:44:07.530 [main] InputTakenMultiplication - Multiplication value is: 18
+
+[INFO ] 2021-04-07 16:44:35.522 [main] InputTakenEvenSum - Sum Of Even Numbers between 1 And 10 is: 30
+
+[INFO ] 2021-04-08 11:26:17.956 [main] InputTakenEvenSum - Sum Of Even Numbers between 1 And 100 is: 2550
+
+[INFO ] 2021-04-08 11:26:47.888 [main] InputTakenEvenSum - Sum Of  Numbers is: 12
+
+[INFO ] 2021-04-08 12:12:52.780 [main] InputTakenDivision - Division value between 6 And 2 is: 3
+
+[INFO ] 2021-04-08 12:14:56.298 [main] InputTakenDivision - Division value between 6 And 2 is: 3
+
+[INFO ] 2021-04-08 12:32:37.826 [main] InputTakenDivision - Division value between 10 And 5 is: 2
+
+[INFO ] 2021-04-08 12:33:04.222 [main] InputTakenEvenSum - Sum Of Even Numbers between 1 And 10 is: 30
+
+[INFO ] 2021-04-08 12:37:39.177 [main] InputTakenMultiplication - Multiplication value is: 6
+
+[INFO ] 2021-04-08 12:37:51.684 [main] InputTakenDivision - Division value between 6 And 2 is: 3
+
+[INFO ] 2021-04-08 12:38:20.275 [main] InputTakenEvenSum - Sum Of Even Numbers between 1 And 100 is: 2550
+
+[INFO ] 2021-04-08 12:45:40.107 [main] InputTakenDivision - Division value between 8 And 2 is: 4
+
+[INFO ] 2021-04-08 12:46:53.207 [main] InputTakenEvenSum - Sum Of Even Numbers between 1 And 100 is: 2550
+
+[INFO ] 2021-04-08 12:52:28.527 [main] InputTakenDivision - Division value between 1 And 1 is: 1
+
+[INFO ] 2021-04-08 12:53:03.820 [main] InputTakenDivision - Division value between 10 And 2 is: 5
+
+[INFO ] 2021-04-08 12:58:09.725 [main] InputTakenDivision - Division value between 20 And 2 is: 10
+
+[INFO ] 2021-04-08 13:04:05.010 [main] InputTakenDivision - Division value between 20 And 2 is: 10
+
+[INFO ] 2021-04-08 13:19:33.195 [main] InputTakenDivision - Division value between 40 And 2 is: 20
+
+[INFO ] 2021-04-08 13:24:28.151 [main] InputTakenEvenSum - Sum Of Even Numbers between 1 And 10 is: 30
+
+[INFO ] 2021-04-08 13:25:43.235 [main] InputTakenOddSum - Sum Of Odd Numbers between 1 And 100 is: 2500
+
+[INFO ] 2021-04-08 13:44:15.126 [main] InputTakenEvenSum - Sum Of Even Numbers between 1 And 10 is: 30
+
+[INFO ] 2021-04-08 13:44:44.305 [main] InputTakenOddSum - Sum Of Odd Numbers between 1 And 11 is: 36
+
+[INFO ] 2021-04-08 13:45:56.289 [main] InputTakenEvenSum - Sum Of  Numbers is: 30
+
+[INFO ] 2021-04-08 13:50:01.754 [main] InputTakenSubtract - Subtraction value  between 8 And 2 is: 6
+
+[INFO ] 2021-04-08 13:51:01.693 [main] TakenCommonService - Final Result: 20
+[INFO ] 2021-04-09 18:52:37.735 [main] InputTakenEvenSum - Sum Of Even Numbers between 1 And 10 is: 30
+
+[INFO ] 2021-04-09 18:54:01.114 [main] InputTakenSeriesSum - Sum Of Series Numbers between 1 And 50 Where Value Of Interval Is 2 : 625
+
+[INFO ] 2021-04-09 18:55:21.764 [main] TakenCommonService - Final Result: 63
